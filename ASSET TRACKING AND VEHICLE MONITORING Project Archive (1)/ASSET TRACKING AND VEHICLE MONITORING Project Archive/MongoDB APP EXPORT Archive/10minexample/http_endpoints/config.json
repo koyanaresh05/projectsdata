@@ -1,0 +1,269 @@
+[
+    {
+        "route": "/post",
+        "http_method": "POST",
+        "function_name": "post",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/get",
+        "http_method": "*",
+        "function_name": "get",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/update",
+        "http_method": "POST",
+        "function_name": "update3",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/update_safe",
+        "http_method": "POST",
+        "function_name": "update_safe",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/update_unsafe",
+        "http_method": "POST",
+        "function_name": "update_unsafe",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/get_unsafe",
+        "http_method": "*",
+        "function_name": "get_unsafe",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/post_employee",
+        "http_method": "POST",
+        "function_name": "post_employee",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/get_employee",
+        "http_method": "*",
+        "function_name": "get_employee",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/update_employee_password",
+        "http_method": "POST",
+        "function_name": "update_employee_password",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/sendOTP",
+        "http_method": "POST",
+        "function_name": "send_msg",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/Callbacks_OTP",
+        "http_method": "POST",
+        "function_name": "post",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/delete",
+        "http_method": "POST",
+        "function_name": "delete",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/delete_employee",
+        "http_method": "POST",
+        "function_name": "delete_employee",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/update_employee_contact",
+        "http_method": "POST",
+        "function_name": "update_employee_contact",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/get_Lock_Data",
+        "http_method": "*",
+        "function_name": "get_Lock_Data",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/post_bus_data",
+        "http_method": "POST",
+        "function_name": "post_bus",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/post_OTP",
+        "http_method": "POST",
+        "function_name": "post_OTP",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/delete_OTP",
+        "http_method": "POST",
+        "function_name": "delete_OTP",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/get_OTP",
+        "http_method": "*",
+        "function_name": "get_OTP",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/get_last_loc",
+        "http_method": "*",
+        "function_name": "get_last_loc",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "EJSON"
+    },
+    {
+        "route": "/update_last_loc",
+        "http_method": "*",
+        "function_name": "update_last_loc",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "EJSON"
+    },
+    {
+        "route": "/update_ts",
+        "http_method": "*",
+        "function_name": "update_ts",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "EJSON"
+    },
+    {
+        "route": "/update_coordinates",
+        "http_method": "POST",
+        "function_name": "post_coordinates",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "EJSON"
+    },
+    {
+        "route": "/post_gps_data",
+        "http_method": "POST",
+        "function_name": "post_gps_data",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "EJSON"
+    },
+    {
+        "route": "/update_i_ts",
+        "http_method": "*",
+        "function_name": "update_i_ts",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "EJSON"
+    },
+    {
+        "route": "/new_post_bus",
+        "http_method": "POST",
+        "function_name": "new_post_bus",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "EJSON"
+    }
+]

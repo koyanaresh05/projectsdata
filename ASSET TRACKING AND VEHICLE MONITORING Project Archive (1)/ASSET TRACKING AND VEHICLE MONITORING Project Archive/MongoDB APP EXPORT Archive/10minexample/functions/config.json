@@ -1,0 +1,161 @@
+[
+    {
+        "name": "10minapi",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "post",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "api3",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "update_fun",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "update_2",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "update3",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "update_safe",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "update_unsafe",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "get",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "get_unsafe",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "post_employee",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "get_employee",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "update_employee_password",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "send_msg",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "delete",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "delete_employee",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "update_employee_contact",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "get_Lock_Data",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "post_bus",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "tryfun",
+        "private": false
+    },
+    {
+        "name": "post_OTP",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "get_OTP",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "delete_OTP",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "random_num_gen",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "update_last_loc",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "get_last_loc",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "update_ts",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "post_coordinates",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "post_gps_data",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "update_i_ts",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "new_post_bus",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "rename",
+        "private": false,
+        "run_as_system": true
+    }
+]

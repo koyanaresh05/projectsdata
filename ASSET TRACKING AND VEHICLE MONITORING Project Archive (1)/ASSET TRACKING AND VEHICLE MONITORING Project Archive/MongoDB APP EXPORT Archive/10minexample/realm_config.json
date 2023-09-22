@@ -1,0 +1,8 @@
+{
+    "app_id": "10minexample-fzdpe",
+    "config_version": 20210101,
+    "name": "10minexample",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL"
+}
